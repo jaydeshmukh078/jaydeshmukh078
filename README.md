@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Deshmukh</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<p align="left"> <img src="" alt="jaydeshmukh078" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeshmukh078&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeshmukh078" /> </p>
 
 - 🌱 I’m currently learning Frontend web development
