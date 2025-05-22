@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeshmukh078&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeshmukh078" /> </p>
 
+- 🌱 I’m currently learning Frontend web development
+
 - 📫 How to reach me **jaydeshmukh0010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
